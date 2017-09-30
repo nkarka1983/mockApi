@@ -1,4 +1,4 @@
-{
+{  
   "accounts": [
     { "id": "IRA-5200", "amount": 5736.63, "todayChange": "-0.08", "changeAmount": 8916.69 },
     { "id": "AAA-1812", "amount": 2010926.10, "todayChange": "+0.21", "changeAmount": 38881.63 },
